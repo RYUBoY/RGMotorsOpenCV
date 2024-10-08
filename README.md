@@ -39,7 +39,7 @@
 
 # 구성원
 ```swift
-public Enginner RadialGag() {
+public Enginner RGHamtory() {
   public Enginner SeungHyun;
   public Enginner JongHo;
   public Enginner SeungHoon;
