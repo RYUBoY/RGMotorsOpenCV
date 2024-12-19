@@ -41,7 +41,7 @@
 🛠️	실제 박스들을 인식하여 크기별로 다른 변수를 출력해주는 기능
 
 
-# 구성원
+# 구성원 & 역할
 ```swift
 public Enginner RGHamtory() {
   public Enginner SeungHyeon;
@@ -50,8 +50,10 @@ public Enginner RGHamtory() {
   public Enginner DaeHee;
   ...
 }
+
 ```
 
+<img src="https://github.com/user-attachments/assets/60285984-f6f3-4a0d-b507-933d34876650">
 
 
 
