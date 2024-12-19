@@ -57,10 +57,10 @@ public Enginner RGHamtory() {
 
 # 개발 도구
 
-<img src ="https://img.shields.io/badge/-C%23-000000?logo=Python&style=flat" style="height: 30px;">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-WPF-0078D7?style=flat&logo=windows&logoColor=white" style="height: 30px;">
 <img src="https://img.shields.io/badge/-LiveChart-0078D7?style=flat&logo=windows&logoColor=white" style="height: 30px;">
-<img src="https://img.shields.io/badge/-WG5000-0078D7?style=flat&logo=windows&logoColor=white" style="height: 30px;">
+<img src="https://img.shields.io/badge/-XG5000-0078D7?style=flat&logo=windows&logoColor=white" style="height: 30px;">
 <img src="https://img.shields.io/badge/-PyCharm-0078D7?style=flat&logo=windows&logoColor=white" style="height: 30px;">
 
 
